@@ -1,14 +1,16 @@
 title: Obturador de Haz de 1\"
-short_description: Aca va la descripción corta
-description: Aca va la descripción
+short_description: Obturador de haz de 1\" con cuchilla plástica.
+description: El juego de obturadores correspondiente al sistema de optomećanica abierta son una opción de bajo costo en relación a las versiones comerciales, de diseño abierto, y que aprovechan la actualmente amplia disponibilidad de sistemas de
+impresión 3D. Son accionables por medio de una señal TTL potenciada desde un terminal BNC, pudiendo ser conectados a una placa Arduino (mediante una
+interfaz de potencia LM18200 o similar) para su comunicación con una PC.
 highlights:
- - Aplicación1
- - Aplicación2
- - Aplicacion3
+ - Obturador de haz expandido.
+ - Accionamiento rápido.
+ - Control mediante TTL de potencia.
 github:
 pictures:
  - SH01_01.jpg
 movies:
  - bla
 specs:
-   velocidad: algo
+   velocidad: Tiempo de respuesta máximo 30ms, tiempo de apertura máximo 10ms.
